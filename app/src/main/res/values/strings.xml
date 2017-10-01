@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TwoActivityBio</string>
+
+    <string-array name="degree">
+        <item>BA</item>
+        <item>BS</item>
+        <item>MS</item>
+        <item>MA</item>
+    </string-array>
+</resources>
